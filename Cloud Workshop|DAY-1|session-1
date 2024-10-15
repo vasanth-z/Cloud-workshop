@@ -1,0 +1,82 @@
+AZURE WORKSHOP|DAY-1|SESSION-1
+
+AGENDA:
+1)Introduction to Cloud Computing.
+2)Benefits of Cloud.
+3)Types of Cloud:
+      #Public
+      #Private
+      #Hybrid
+4)Cloud Services.
+5)Difference betweem IaaS,PaaS,Saas.
+6)Azure Architecture
+7)Zones
+---------------------------------------------------------------------------------------------------------------------------------------------
+CLOUD COMPUTING:
+What is Cloud Computing:
+                        Cloud computing give a of delivering IT resources over internet as
+Compute, Application, processing power and Storage. Instead of building our own datacenters
+and maintenance we prefer Cloud providers as pay-as-you-go.
+
+BENEFITS OF CLOUD COMPUTING:
+1)Scalability
+2)cost-effectiveness.
+3)Availability.
+4)Flexibility
+
+SCALABILITY:
+ It refers to ability of system to handle increasing or decreasing workloads without 
+compromising performing according to their demand.
+
+COST-EFFECTIVENESS:
+  It refers to the abilility of (pay-as-you-go)pricing you can only pay for the services
+that you are using and easy for maintenance adn updates for our operational expenses.
+
+AVAILABILITY:
+  It refers to the ability of system to accessible at any time and whenever we needed.
+And this shows the system reliability.
+
+ELASTICITY:
+  It has ability to change for the business need and market conditions. It can quickly
+add new feature, functionalities and integrate with different system.
+--------------------------------------------------------------------------------------------------------------------------------
+TYPES OF CLOUD:
+PUBLIC CLOUD:
+  Public Cloud refers that the cloud infrastructure can accessed by multiple organizations.
+It can be used by any other cloud provider.
+
+PRIVATE CLOUD:
+  Private Cloud refers to the cloud infrastructure that can be accessed by only single 
+organization.
+
+HYBRID CLOUD:
+  It is a combination of both public and private cloud. It can be used for the private access
+and as well as public access by a organization.
+----------------------------------------------------------------------------------------------------------------------------------------------
+ON-PREMISES:
+  refers to a traditional IT infrastructure where hardware and software are located within an organization's own data center or facilities. 
+This is in contrast to cloud computing, where resources are accessed over the internet from a cloud provider.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLOUD SERVICES:
+1)Infrastructure as a Service(IaaS)
+2)Platform as a Service(PaaS)
+3)Software as a Service(SaaS)
+
+INFRASTRUCTURE AS A SERVICE:
+    It cloud computing model that provides the underlying infrastructure, such as servers, storage, and networking, as a service. 
+Customers have control over the operating system and applications but not the underlying hardware.
+
+PLATFORM AS A SERVICE:
+    This platform includes the underlying infrastructure, operating system, programming languages, and tools 
+needed to develop and deploy applications.
+
+SOFTWARE AS A SERVICE:
+     It is a cloud model that provides fully managed applications that are accessed over the internet. 
+Customers do not need to install or maintain any software on their own devices.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   
+
+  
+
+   

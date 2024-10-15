@@ -103,6 +103,21 @@ regulations that require data to be stored within the country's borders.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AZURE ARCHITECTURE:
 
+AZURE RESOURCES:
+  It has all sort of the each component in your Azure resources tenant that can be used.
+
+AZURE RESOURCE GROUPS:
+  Here the group of development and evironment and other such department are includes to it.
+
+AZURE SUBSCRIPTION:
+  Here the one Account can have multiple subscriptions and that can access through all the services that are given in
+the subscription.
+
+AZURE POLICIES:
+  it manages the policies andf compliance for the authentication process and security purpose further restrict access
+based on role. who can access what type of service resources.
+
+
 
 
 

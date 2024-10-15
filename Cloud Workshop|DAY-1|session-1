@@ -74,8 +74,39 @@ SOFTWARE AS A SERVICE:
      It is a cloud model that provides fully managed applications that are accessed over the internet. 
 Customers do not need to install or maintain any software on their own devices.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+"DIFFERENCE BETWEEN IAAS,PAAS,SAAS":
 
-   
+        Infrastructure as a Service                      |             Platform as a Service                          |              Software as a Service
+                                                         |                                                            |
+1)It provides the foundational building for cloud        | 1)offers a pre-configured platform for application         | 1)It delivers fully managed applications ready for use.
+computing.                                               | development.                                               | 2) Customers primarily manage their data.
+2)The own users are reponsible for those infrastructure. | 2)Customers manage their own applications and data.        | 3)Cloud provider manages the infrastructure, platform and
+3)It need more technical access.                         | 3)Cloud provider manages the underlying infrastructure and | application.
+                                                         | platform.                                                  |    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PHYSICAL INFRASTRUCTURE:
+Its like that connecting with datacenters, servers, storage devices, networking equipment.
+
+DATACENTERS:
+ The Datacenters are all around the world. these are induvidual and located in seperate places and they are distinct.
+
+
+ZONES:
+   It refer to geographical areas where a cloud provider maintains data centers.These data centers are designed to provide services to customers within that region.
+
+Avalability Zones:
+  These are distinct physical locations within a region that are isolated from each other. They are designed to provide redundancy and fault tolerance.
+
+Sovereign Regions:
+   Cloud provider operates under the jurisdiction of a specific country or government. These zones are often established to comply with data sovereignty laws and 
+regulations that require data to be stored within the country's borders.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AZURE ARCHITECTURE:
+
+
+
+
+
 
   
 

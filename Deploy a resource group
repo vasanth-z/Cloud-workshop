@@ -1,0 +1,8 @@
+STEPS TO DEPLOY RESOURCE GROUP
+------------------------------
+1)Create a microsoft Azure Account.
+2)Go to Menu Bar and search for Resource Groups.
+3)And go for "+Create" option shown.
+4)Then give a name for your resource group and let the region be default.
+5)As tags skip for now and then go for review.
+6)Click confirm to create you resource group.

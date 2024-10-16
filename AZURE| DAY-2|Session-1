@@ -1,0 +1,55 @@
+AZURE WORKSHOP |DAY-2| SESSION-1
+
+AGENDA:
+->Azure Virtual Network
+->IPv4 & IPv6
+->Intorduction to CIDR
+->Public vs Private IP
+->VNET
+->Bastion Hosts
+->NAT Gateway
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+AZURE VIRTUAL NETWORK:
+ Enables resources such as azure virtual machine safe.
+ It balance the workload and its scalability and high availability.
+ content delivery network(CDN) that get content to user in their region to minimize latency.
+
+IPv4:
+->It is a version 4 and first version of internet.
+->it is one of the core protocol.
+->it addresses in 32bit
+
+IPv6:
+->It is a version 6 and make communication over internet.
+->it addresses 128 bit
+
+Classless Inter-Domain Routing(CIDR):
+-> A method for allocating IP address.
+-> Used in most security groups.
+-> It has two form base IP and subnet.
+
+Public VS Private IP:
+
+-> In private it can address in the form of (LAN) and public (Internet)
+-> in Private it has some certain IP range and in Public all IP address on the internet.
+-> VNET is private and it cant overlap with others.
+
+  VNET:
+-> azure takes ist four IP and last 1 IP.
+-> it allows to manage and create own environment.
+-> it can created into more subnets.
+
+SUBNETS are more secure.
+It is can be had network security and control through network access.
+
+BASTION HOSTS:
+-> It is used through SSH for private access.
+-> It is more secured and there is arestriction to users getting in without permission.
+-> it can be mostly used in Private IP.
+
+NAT GATEWAY:
+-> it is managed by AWS 
+-> pay for the usage
+-> it can be used by other subnet
+-> no security groups to manage.
+

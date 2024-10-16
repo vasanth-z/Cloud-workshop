@@ -1,0 +1,25 @@
+AZURE WORKSHOP |DAY-2 |SESSION-2
+
+HOW TO CREATE A VIRTUAL MACHINE IN WINDOWS AND CONNECT TO RDP FILE:
+
+1)Login to you Azure Account.
+2)Click on "+Create resource" or search for "Virtual Machine".
+3)Then click on Virtual machine to create.
+4)Enter the following detail:
+    -> Subscription : default
+    -> resource group : [your choice]
+    -> virtual machine name:[your choice]
+    -> Region : default
+    -> Image : Windows 2022 Datacenter -x64
+3)Administrator account
+      -> create a username
+      -> create a password
+4)In inbound ports choose allow selected ports.
+5)And check for (RDP 3389)
+6) And just go for "review + create"
+7) Click create to create your virtual machine.
+
+8)After deployed your virtual machine click on "connect"
+9)download your RDP file.
+10)Install the RDP file and allow the access shown.
+11)Finally you connected you virtual machine to RDP File.
